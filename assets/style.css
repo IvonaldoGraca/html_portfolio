@@ -1,5 +1,5 @@
 html {
-    background-color:white;
+    background-color:#1e90ff;
     background-image: -webkit-linear-gradient();
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
@@ -8,6 +8,11 @@ h1,h2{
     text-align:justify;
     font-size: larger;
     font-style: normal;
+    color: aliceblue;
+}
+h3{
+    font-size: 16px;
+    color: black;
 }
 
 .button{
