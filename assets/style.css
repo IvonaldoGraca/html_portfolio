@@ -8,10 +8,10 @@ h1,h2{
     text-align:justify;
     font-size: larger;
     font-style: normal;
-    color: aliceblue;
+    color: black;
 }
 h3{
-    font-size: 16px;
+    font-size: 1rem;
     color: black;
 }
 
@@ -27,4 +27,5 @@ h3{
 }
 .div{
     align-items: center;
+
 }
