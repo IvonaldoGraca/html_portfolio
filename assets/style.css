@@ -10,6 +10,7 @@ h1,h2{
     font-size: larger;
     font-style: normal;
     color: black;
+    display:inline-flex;
 }
 h3{
     font-size: 1rem;
@@ -37,4 +38,19 @@ h3{
     border: 5px solid;
     margin-left: 600px;
 
+}
+.radionova{
+    display: block;
+}
+
+.centroeloah{
+    display: block;
+}
+
+.aangosif{
+    display: block;
+}
+
+img{
+    float: left;
 }
